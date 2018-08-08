@@ -1,3 +1,6 @@
+package test;
+import java.util.*;
+import java.lang.*;
 public class ArrayAlg{
 	public static Pair<String> minmax(String [] a){
 		if(a == null || a.length == 0){

@@ -1,6 +1,9 @@
+package test;
+import java.util.*;
+import java.lang.*;
 public class Pair<T>{
 	private T field1;
-	private T field2'
+	private T field2;
 
 	public Pair(){
 		this.field1 = null;
